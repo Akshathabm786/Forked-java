@@ -1,6 +1,1 @@
 This is java file for github webhook
-
-No rain 
-
-No flower
-Welcome to DevOps
